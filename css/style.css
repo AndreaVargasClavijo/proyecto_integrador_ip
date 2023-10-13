@@ -6006,7 +6006,7 @@ a.close.disabled {
 }
 
 .carousel-indicators .active {
-  opacity: ;
+  opacity: 1;
 }
 
 .carousel-caption {
