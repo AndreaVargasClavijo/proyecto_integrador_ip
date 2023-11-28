@@ -9644,7 +9644,6 @@ h6,
 .page-header,
 .offer,
 .footer {
-  background: linear-gradient(rgba(78, 67, 45, 0..9), rgba(78, 67, 45, 0.9)), url(../img/.jpg);
   background-position: top;
   background-repeat: no-repeat;
   background-size: cover;
